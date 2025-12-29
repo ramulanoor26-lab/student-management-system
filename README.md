@@ -35,3 +35,20 @@ This project was developed as an academic and learning project to practice Pytho
 2. Clone or download this repository  
 3. Open a terminal in the project folder  
 4. Run the command:
+
+
+
+## 📁 Project Structure
+
+student-management-system/
+│
+├── student_management_system.py
+├── students.txt
+└── README.md
+
+
+👤 Author
+
+RAMULA NOOR
+Bachelor of Information Technology (BIT) Student
+ISLAMIC UNIVERSITY IN UGANDA
